@@ -13,16 +13,17 @@ This Python project downloads a public GitHub repository, analyzes its commit hi
   - `python_file_analysis.xlsx` (code metrics for each Python file)
 
 ## Usage
+1. Generate a github token
 
-1. Install requirements:
+2. Install requirements:
     ```
-    pip install requests openpyxl pandas
+    pip install requests openpyxl pandas others
     ```
-2. Run the script:
+3. Run the script:
     ```
     python python_script.py
     ```
-3. Enter the GitHub repository URL and your personal access token when prompted.
+4. Enter the GitHub repository URL and your personal access token when prompted.
 
 ## Output
 
