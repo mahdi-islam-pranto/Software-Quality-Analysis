@@ -1,7 +1,8 @@
 # Software-Quality-Analysis
-Analyzing Software Quality and Maintainability in Object-Oriented Systems using Software Metrics
-
-This Python project downloads a public GitHub repository, analyzes its commit history and Python source files, and generates Excel reports with detailed metrics.
+Analyzing Software Quality and Maintainability in Object-Oriented Systems using Software Metrics.
+Effective evaluation of software quality and maintainability is compulsory for successful object-oriented system
+development, and the potential of software metrics in achieving these goals are investigated in this research. To evaluate the quality of software, this research employs software metrics to identify potential errors and weaknesses in object-oriented systems. 
+# This Python project downloads a public GitHub repository, analyzes its commit history and Python source files, and generates Excel reports with detailed metrics.
 
 ## Features
 
